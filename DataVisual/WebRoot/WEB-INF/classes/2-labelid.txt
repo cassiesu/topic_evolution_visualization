@@ -1,0 +1,20 @@
+nodesHash["2007: 代表 军队 部队 "] = 0;
+nodesHash["2008: 古巴 卡斯特罗 美国 "] = 1;
+nodesHash["2008: 国防 军队 军事 "] = 2;
+nodesHash["2009: 军队 国家 国防 "] = 3;
+nodesHash["2009: 护航 任务 人大代表 "] = 4;
+nodesHash["2009: 海洋 开发 资源 "] = 5;
+nodesHash["2009: 海洋 海军 权益 "] = 6;
+nodesHash["2010: 军费 国防 增长 "] = 7;
+nodesHash["2010: 护航 任务 海军 "] = 8;
+nodesHash["2011: 国防 中国 建设 "] = 9;
+nodesHash["2011: 建设 主席 军队 "] = 10;
+nodesHash["2012: 军队 胡锦涛 军事 "] = 11;
+nodesHash["2012: 国防 增长 李肇星 "] = 12;
+nodesHash["2013: 军费 国防 增长 "] = 13;
+nodesHash["2013: 军队 国家 战争 "] = 14;
+nodesHash["2013: 军队 建设 国防 "] = 15;
+nodesHash["2014: 军费 我国 预算 "] = 16;
+nodesHash["2014: 国防 增长 力量 "] = 17;
+nodesHash["2014: 建设 装备 军队 "] = 18;
+

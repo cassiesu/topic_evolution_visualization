@@ -1,0 +1,29 @@
+#whole2 .node {
+  cursor: pointer;
+}
+
+#whole2 .node:hover {
+  stroke: #000;
+  stroke-width: 1.5px;
+}
+
+#whole2 .node--root {
+  stroke: #777;
+  stroke-width: 2px;
+}
+
+#whole2 .node--leaf {
+  fill: white;
+}
+
+#whole2 .label {
+  font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-anchor: middle;
+  text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+}
+
+#whole2 .label,
+#whole2 .node--root,
+#whole2 .node--leaf {
+  pointer-events: none;
+}

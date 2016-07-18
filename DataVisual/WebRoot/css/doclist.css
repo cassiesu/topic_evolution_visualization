@@ -1,0 +1,128 @@
+
+#docnav {
+  position:relative;
+  left:10px;
+  right:20px;
+  width: 100%;
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(white), to(whitesmoke));
+  background-image: -webkit-linear-gradient(white, whitesmoke);
+  background-image: -moz-linear-gradient(white, whitesmoke);
+  background-image: -o-linear-gradient(white, whitesmoke);
+  background-image: linear-gradient(white, whitesmoke);
+  height:70px;
+}
+
+#docnav ul {
+  margin: 0 auto;
+  padding: 0;
+}
+
+#docnav li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  font-size: 15px;
+  padding: 5px;
+  box-shadow: -20px 0 30px -20px rgba(0, 0, 0, 0.3);
+  transition: 0.4s;
+  cursor: pointer;
+}
+
+#docnav li:hover {
+  background: #191915;
+}
+
+#docnav li:hover a {
+  text-color: white;
+}
+
+#docnav li a {
+  text-decoration: none;
+  color: black;
+}
+
+
+/**
+docList
+**/
+
+#doclist {
+  position:relative;
+  height: 550px;
+  width: 350px;
+  left:10px;
+  background: #fff;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  list-style: none;
+  float:left;
+  margin:0 0 0 5px;
+  padding:0;
+  border:3px solid rgba(30, 30, 30, .3);
+  box-shadow:0 0 10px rgba(0, 0, 0, .3);
+}
+
+#doclist li {
+  height:100px;
+  padding:2px;
+  margin:2px 0;
+  background:#CCBBFF;
+  background-size: 100%;
+  overflow:hidden;
+}
+
+#doclist li:nth-child(odd) {
+  background:#E8CCFF;
+}
+
+
+/*****************************
+ * Blur
+ *****************************/
+
+.blur li {
+  transition: all .35s ease-out .15s;
+  transform-origin: 50% 50%;
+}
+.blur li.past {
+  -webkit-filter:blur(10px);
+  filter:blur(10px);
+  transform:translateY(-10px);
+}
+.blur li.future {
+  -webkit-filter:blur(10px);
+  filter:blur(10px);
+  transform:translateY(10px);
+}
+
+
+/*****************************************
+	Article
+******************************************/
+
+article  {
+    margin: 0;
+    padding: 2px 5px 5px 5px;
+}
+article h1 {
+    margin-bottom:2px;            
+}
+article a {
+	color:rgb(220,78,0);
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: bold;
+}
+article p {
+	font-size: 13px;
+	font-weight: normal;
+	line-height:16px;
+}
+article time {
+	display: block;
+	font-size: 12px;
+	font-weight: bold; 
+	margin-botton:5px;
+}
+

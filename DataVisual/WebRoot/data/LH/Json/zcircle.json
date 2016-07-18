@@ -1,0 +1,125 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "金融经济",
+   "children": [
+    {"name": "市场", "size": 3299},
+    {"name": "金融", "size": 3002},
+    {"name": "投资", "size": 2386},
+    {"name": "银行", "size": 2227},
+    {"name": "政策", "size": 1984},
+    {"name": "贷款", "size": 1847},
+    {"name": "增长", "size": 1695},
+    {"name": "贷款", "size": 1452}]
+   },
+   {
+   "name": "法律",
+   "children": [
+    {"name": "案件", "size": 4610},
+    {"name": "司法", "size": 4589},
+    {"name": "犯罪", "size": 4472},
+    {"name": "法律", "size": 4218},
+    {"name": "法院", "size": 2814},
+    {"name": "监督", "size": 2606},
+    {"name": "立法", "size": 2165},
+    {"name": "机关", "size": 1794}]
+   },
+   {
+   "name": "政府财政",
+   "children": [
+    {"name": "财政", "size": 1058},
+    {"name": "预算", "size": 914},
+    {"name": "中央", "size": 384},
+    {"name": "支出", "size": 356},
+    {"name": "增长", "size": 304},
+    {"name": "教育", "size": 264},
+    {"name": "地方", "size": 201},
+    {"name": "投入", "size": 150}]
+   },
+   {
+   "name": "医疗疾病",
+   "children": [
+    {"name": "医疗", "size": 1634},
+    {"name": "医生", "size": 747},
+    {"name": "卫生", "size": 707},
+    {"name": "医院", "size": 546},
+    {"name": "看病", "size": 528},
+    {"name": "服务", "size": 457},
+    {"name": "药品", "size": 433},
+    {"name": "基本", "size": 354}]
+   },
+   {
+   "name": "环保",
+   "children": [
+    {"name": "环境", "size": 2027},
+    {"name": "污染", "size": 1568},
+    {"name": "生态", "size": 1382},
+    {"name": "保护", "size": 832},
+    {"name": "节能", "size": 728},
+    {"name": "减排", "size": 670},
+    {"name": "大气", "size": 360},
+    {"name": "空气", "size": 352}]
+   },
+   {
+   "name": "科学教育",
+   "children": [
+    {"name": "教育", "size": 2650},
+    {"name": "学生", "size": 1462},
+    {"name": "书记", "size": 855},
+    {"name": "高考", "size": 731},
+    {"name": "教师", "size": 683},
+    {"name": "学校", "size": 607},
+    {"name": "农村", "size": 510},
+    {"name": "大学", "size": 478}]
+   },
+   {
+   "name": "三农问题",
+   "children": [
+    {"name": "农业", "size": 1321},
+    {"name": "农民", "size": 1270},
+    {"name": "农村", "size": 1108},
+    {"name": "粮食", "size": 827},
+    {"name": "土地", "size": 428},
+    {"name": "生产", "size": 307},
+    {"name": "全国", "size": 146},
+    {"name": "安全", "size": 120}]
+   },
+   {
+   "name": "住房问题",
+   "children": [
+    {"name": "住房", "size": 1361},
+    {"name": "房价", "size": 760},
+    {"name": "市场", "size": 370},
+    {"name": "调控", "size": 364},
+    {"name": "保障", "size": 212},
+    {"name": "政府", "size": 201},
+    {"name": "建设", "size": 193},
+    {"name": "土地", "size": 170}]
+   },
+   {
+   "name": "国防军事",
+   "children": [
+    {"name": "国防", "size": 654},
+    {"name": "军队", "size": 439},
+    {"name": "建设", "size": 316},
+    {"name": "军费", "size": 194},
+    {"name": "国家", "size": 153},
+    {"name": "增长", "size": 148},
+    {"name": "预算", "size": 137},
+    {"name": "海军", "size": 107}]
+   },
+   {
+   "name": "劳动就业",
+   "children": [
+    {"name": "农民工", "size": 1694},
+    {"name": "就业", "size": 1350},
+    {"name": "劳动", "size": 600},
+    {"name": "工资", "size": 495},
+    {"name": "女性", "size": 390},
+    {"name": "培训", "size": 330},
+    {"name": "大学生", "size": 315},
+    {"name": "养老", "size": 315}]
+   }
+ ]
+}
